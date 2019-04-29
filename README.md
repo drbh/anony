@@ -4,13 +4,13 @@ This program simply replaces sensive data in a dataset with specfied values. Thi
 
 ## Features
 
-🐥 [X] Read in CSV as stream from 
-🐥 [X] Replace SSN with `XXX-XX-XXX`
-🏗️ [ ] Replace Phone Numbers
-🏗️ [ ] Allow user config for replacement value
-🏗️ [ ] Allow user to hash or randomize cells
-🏗️ [ ] Replacing addresses and name
-🏗️ [ ] Detect possible single-out or correlation issues
+🐥 [X] Read in CSV as stream from   
+🐥 [X] Replace SSN with `XXX-XX-XXX`  
+🏗️ [ ] Replace Phone Numbers  
+🏗️ [ ] Allow user config for replacement value  
+🏗️ [ ] Allow user to hash or randomize cells  
+🏗️ [ ] Replacing addresses and name  
+🏗️ [ ] Detect possible single-out or correlation issues  
 
 # How to use
 
